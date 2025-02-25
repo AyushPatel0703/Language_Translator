@@ -1,4 +1,3 @@
-# Language_Translator
 # Language Translator Application
 
 ## Overview
